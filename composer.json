@@ -1,15 +1,15 @@
 {
-    "name": "zyw/es-search",
+    "name": "zyt/es-search",
     "description": "simple for laravel query",
     "autoload": {
         "psr-4": {
-            "Zyw\\Es\\": "src/"
+            "Zyt\\Es\\": "src/"
         }
     },
     "files": [ "src/helpers.php" ],
     "authors": [
         {
-            "name": "zyw",
+            "name": "zyt",
             "email": "15036144926@163.com"
         }
     ],
